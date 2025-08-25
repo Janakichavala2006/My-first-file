@@ -1,0 +1,3 @@
+name: janaki chavala
+course: Bsc computer science 
+one thing i learnt in GitHub : learnt how to create a GitHub account and create a repository and update and commit changes
